@@ -1,0 +1,48 @@
+body {
+    background-color: whitesmoke;
+    font-family: monospace;
+    color: rgb(68, 68, 68);
+    text-align: center;
+}
+
+li {
+    font-size: 22px;
+    text-align: left;
+    
+}
+
+h1 {
+    font-size: 64px;
+    background-color: honeydew;
+    color: black;
+    text-align: center;
+    
+}
+
+img {
+    height: auto;
+    width: 750px;
+    display: block;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h2 {
+    background-color: honeydew;
+    font-size: 28px;
+}
+
+h3 {
+    
+    font-size: 22px;
+}
+
+h4 {
+    font-size: 22px;
+    text-align: left;
+}
+
+p {
+    font-size: 16px;
+}
